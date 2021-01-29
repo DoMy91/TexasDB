@@ -12,3 +12,5 @@ Inoltre per ogni detenuto si vogliono conoscere:
 - Informazioni relative all’avvocato difensore. Il carcere mette a disposizione dei detenuti un’elenco di avvocati da cui scegliere nel caso in cui il detenuto non ne abbia uno proprio;
 - Storia dei colloqui effettuati.
 Siccome nel carcere vengono eseguite le esecuzioni per i condannati alla pena capitale, si vuole tener traccia di tutte le esecuzioni programmate e di quelle che sono già state eseguite, quest’ultime identificate da un numero univoco di esecuzione. Ogni esecuzione dovrà avvenire in presenza di testimoni le cui informazioni anagrafiche dovranno essere registrate. Un’esecuzione prevista può anche essere rinviata più volte prima che venga eseguita o addirittura essere annullata e convertita in ergastolo per il detenuto.
+
+[Relazione](Progetto_BD.pdf)
